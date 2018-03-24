@@ -102,7 +102,6 @@ class Handler extends ExceptionHandler
 
         return $this->errorResponse('Fallo inesperado. Intente luego', 500);
 
-       
     }
 
     /**
